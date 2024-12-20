@@ -1,0 +1,41 @@
+p { 
+    background-color: rgba(30, 255, 0, 0.225);
+}
+
+div > p {
+    background-color: rgb(157, 235, 244);
+}
+
+.group1 p { 
+   background-color: antiquewhite;
+    
+}
+
+.group2 {
+    background-color: azure;    
+
+}
+
+#unique p{ 
+    background-color: rgb(133, 169, 186);
+}
+
+.child { 
+    background-color: rgba(255, 0, 0, 0.26);
+}
+ 
+div span.example#combination {
+    background-color: rgba(205, 61, 237, 0.557); 
+  }
+
+ul li.item {
+    background-color: rgba(165, 42, 42, 0.544);
+  }
+
+  #unique2.example {
+    background-color: orange;
+  }
+
+a[href="test"]{
+  background-color: red;
+}
